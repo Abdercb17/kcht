@@ -68,7 +68,7 @@ const Register = () => {
           <input required type="text" placeholder="display name" />
           <input required type="email" placeholder="email" />
           <input required type="password" placeholder="password" />
-          <p className="p-tag">*Password must be of 6 characters atleast.</p>
+          <p className="p-tag">*Password must be of 6 characters atleast..</p>
           <input required style={{ display: "none" }} type="file" id="file" />
           <label htmlFor="file">
             <img src={Add} alt="" />
